@@ -6,3 +6,9 @@ elif n==0:
 else:
     print(n,"is negative")
     #above is elif program
+    a=999
+    if a>=0:
+        if a==0:
+            print("Why zero")
+        else:
+            print("ohhh good,you enter positive no")
