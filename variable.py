@@ -12,3 +12,20 @@ print(aa)
 print(bb)
 print(cc)
 print(dd)
+# Now we declare variable as global,by default a variable is local
+x = "Harsh"
+print(x)
+y=123456
+z=666
+def f():
+    global x
+    x=x*2
+    print(x)
+    print(z)
+
+
+f()
+
+print(y)
+
+
