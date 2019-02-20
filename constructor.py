@@ -2,6 +2,7 @@ class person:
     name=""
     age=0
 
+
     def __init__(self,personname,personage):
         self.name=personname
         self.age=personage
