@@ -10,8 +10,7 @@ class abc:
         def ab(self):
             return "{} is now dancing".format(self.name)
 
-a = abc("harsh",123)
 
-print(a.xyz("'harsh'"))
-print(a.qwe())
+
+
 
