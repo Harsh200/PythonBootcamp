@@ -12,6 +12,7 @@ class babydog(dog):
 
 
 d = babydog()
+d.eat()
 d.bark()
 d.weep()
 
