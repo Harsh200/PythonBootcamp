@@ -7,4 +7,6 @@ class dog(Animal):
         print("barking")
 
 class babydog(dog):
+    def weep(self):
+        print("weeping")
 
