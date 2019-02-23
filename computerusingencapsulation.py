@@ -4,6 +4,7 @@ class computer:
 
  def sell(self):
          print("selling price",format(self._maxprice))
+
  def setmaxprice(self,price):
          self._maxprice=price
 
