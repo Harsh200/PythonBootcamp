@@ -6,3 +6,7 @@ class xyz(object):
 
 
 obj=xyz()
+
+print(obj.a)
+print(obj.b)
+print(obj._c)
