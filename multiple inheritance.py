@@ -9,3 +9,8 @@ class xyz(object):
          print("base 2")
 
 class child(abc,xyz):
+    def __init__(self):
+        super(child,self).__init__()
+        print("hello this is third class")
+
+child():
