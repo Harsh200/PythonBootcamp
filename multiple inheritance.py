@@ -13,4 +13,5 @@ class child(abc,xyz):
         super(child,self).__init__()
         print("hello this is third class")
 
-child():
+
+child()
