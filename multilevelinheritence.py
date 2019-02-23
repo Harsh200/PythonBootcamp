@@ -1,1 +1,2 @@
-class Animal
+class Animal:
+    def eat(self):
