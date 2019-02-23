@@ -6,3 +6,4 @@ class laptop(object):
     def setversion(self,version):
         set.version=version
 
+obj=laptop()
