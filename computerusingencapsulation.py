@@ -9,4 +9,5 @@ class computer:
 
 
 c=computer()
+c.sell()
 
