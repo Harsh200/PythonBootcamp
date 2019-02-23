@@ -8,6 +8,7 @@ class xyz(object):
          super(xyz,self).__init__()
          print("base 2")
 
+
 class child(abc,xyz):
     def __init__(self):
         super(child,self).__init__()
