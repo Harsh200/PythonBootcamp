@@ -4,3 +4,8 @@ class abc(object):
      print("Base 1")
 
 class xyz(object):
+     def __init__(self):
+         super(xyz,self).__init__()
+         print("base 2")
+
+class child(abc,xyz):
