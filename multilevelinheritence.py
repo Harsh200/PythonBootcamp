@@ -3,4 +3,6 @@ class Animal:
         print("animal is eating")
 
 class dog(Animal):
+    def bark(selfs):
+        print("barking")
 
