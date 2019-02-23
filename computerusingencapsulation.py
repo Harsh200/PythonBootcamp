@@ -11,3 +11,6 @@ class computer:
 c=computer()
 c.sell()
 
+c.__maxprice=1100
+
+
