@@ -21,4 +21,7 @@ class pigeon(bird):
                 print("run faster")
 
 
-
+peggy = pigeon()
+peggy.whoisthis()
+peggy.swim()
+peggy.run()
