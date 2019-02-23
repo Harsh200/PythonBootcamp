@@ -6,3 +6,5 @@ class dog(Animal):
     def bark(selfs):
         print("barking")
 
+class babydog(dog):
+
