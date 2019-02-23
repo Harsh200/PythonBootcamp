@@ -10,3 +10,8 @@ class babydog(dog):
     def weep(self):
         print("weeping")
 
+
+d = babydog()
+d.bark()
+d.weep()
+
