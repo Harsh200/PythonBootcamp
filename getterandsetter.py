@@ -7,3 +7,4 @@ class laptop(object):
         set.version=version
 
 obj=laptop()
+
