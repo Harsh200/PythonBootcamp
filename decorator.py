@@ -6,3 +6,4 @@ first("hello")
 
 
 second=first
+second("harsh")
