@@ -4,3 +4,5 @@ def product(a,b):
 
 
 def product(a,b,d):
+    c=a*b*d
+    print(c)
