@@ -3,3 +3,6 @@ def first(msg):
 
 
 first("hello")
+
+
+second=first
