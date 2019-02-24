@@ -4,3 +4,6 @@ class human:
             print("hello" + name)
         else:
             print("hello")
+
+
+obj=human()
