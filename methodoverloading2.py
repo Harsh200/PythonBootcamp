@@ -9,4 +9,3 @@ def product(a,b,d):
 
 
 product(1,2,3)
-product(1,2)
