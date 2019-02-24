@@ -6,3 +6,7 @@ def product(a,b):
 def product(a,b,d):
     c=a*b*d
     print(c)
+
+
+product(1,2,3)
+product(1,2)
