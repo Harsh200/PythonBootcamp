@@ -7,3 +7,4 @@ class human:
 
 
 obj=human()
+obj.sayhello()
