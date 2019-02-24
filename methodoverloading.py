@@ -8,3 +8,4 @@ class human:
 
 obj=human()
 obj.sayhello()
+obj.sayhello("harsh")
